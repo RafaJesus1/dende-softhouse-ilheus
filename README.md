@@ -59,6 +59,6 @@ Rafael Jesus
 
 Levi Ferreira
 
-[Nome do Integrante 3]
+Luiz Gustavo
 
-[Nome do Integrante 4]
+João Gabriel
