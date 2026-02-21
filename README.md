@@ -59,6 +59,3 @@ Rafael Jesus
 
 Levi Ferreira
 
-Luiz Gustavo
-
-João Gabriel
